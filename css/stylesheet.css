@@ -3,7 +3,7 @@
     height: 525px;
     margin-left: 350px;
     margin-top: 65px;
-    background-color: yellow;
+    background-color: slategray;
     padding-left: 30px;
 }
 #height, #weight {
@@ -13,6 +13,7 @@
 }
 
 #weight-guide{
+    color: #fff;
     margin-left: 75px;
     margin-top: 25px;
 }
@@ -21,7 +22,7 @@
     font-size: 35px;
     margin-left: 90px;
     margin-top: 20px;
-    color: blue;
+    color: slategray;
 }
 
 button{
@@ -31,12 +32,14 @@ button{
     margin-top: 25px;
     border-radius: 5px;
     border-style: none;
-    background-color: blue;
+    background-color: cornflowerblue;
     color: #fff;
     font-size: 25px;
 }
 
 h1{
+    font-family: 'Times New Roman', Times, serif;
     padding-left: 15px;
     padding-top: 25px;
+    color: cornflowerblue;
 }
